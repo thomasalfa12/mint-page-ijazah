@@ -118,10 +118,10 @@ const Home: NextPage = () => {
                   src="/nft.png"
                   width="80"
                   height="80"
-                  alt="RainbowKit Demo NFT"
+                  alt="GRADUATION SBT"
                   style={{ borderRadius: 8 }}
                 />
-                <h2 style={{ marginTop: 24, marginBottom: 6 }}>NFT Minted!</h2>
+                <h2 style={{ marginTop: 24, marginBottom: 6 }}>SBT Minted!</h2>
                 <p style={{ marginBottom: 24 }}>
                   Your SBT will show up in your wallet in the next few minutes.
                 </p>
