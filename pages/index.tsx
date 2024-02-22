@@ -109,7 +109,7 @@ const Home: NextPage = () => {
                 height="500"
                 alt="RainbowKit Demo NFT"
               />
-              <h1 style={{ marginTop: 24 }}>Rainbow NFT</h1>
+              <h1 style={{ marginTop: 24 }}>Graduation SBT</h1>
               <ConnectButton />
             </FrontCard>
             <BackCard isCardFlipped={isMinted}>
@@ -121,7 +121,7 @@ const Home: NextPage = () => {
                   alt="RainbowKit Demo NFT"
                   style={{ borderRadius: 8 }}
                 />
-                <h2 style={{ marginTop: 24, marginBottom: 6 }}>NFT Minted!</h2>
+                <h2 style={{ marginTop: 24, marginBottom: 6 }}>SBT Minted!</h2>
                 <p style={{ marginBottom: 24 }}>
                   Your SBT will show up in your wallet in the next few minutes.
                 </p>
