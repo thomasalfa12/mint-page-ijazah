@@ -1,7 +1,7 @@
 {
-  "name": "mint-page",
+  "name": "mint-page-ijazah",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -32,6 +32,9 @@
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "postcss.config.js",
   "keywords": [],
+  "repository": {
+    "url": "https://github.com/thomasalfa12/mint-page-ijazah.git."
+  },
   "author": "",
   "license": "ISC"
 }
