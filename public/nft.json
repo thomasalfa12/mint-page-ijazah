@@ -1,5 +1,5 @@
 {
     "description": "Demo Mint with RainbowKit and wagmi. https://mint-page-ijazah.vercel.app/",
-    "image": "public/nft.png",
+    "image": "https://mint-page-ijazah.vercel.app/nft.png",
     "name": "Kelulusan Mahasiswa Unsri"
   }
