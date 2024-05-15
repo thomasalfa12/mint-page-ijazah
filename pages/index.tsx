@@ -12,7 +12,7 @@ import { abi } from '../contract-abi';
 import FlipCard, { BackCard, FrontCard } from '../components/FlipCard';
 
 const contractConfig = {
-  address: '0xaf9ab1aebe4a6b61c65c8f69c52d526f77da40a3',
+  address: '0xfa1fe97dfa4a67a11bf7a4d07e1c95195f8ad37b',
   abi,
 } as const;
 
